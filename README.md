@@ -4,14 +4,13 @@ I'm a Product Marketing and Strategic Programs leader with **15+ years of experi
 
 I work at the intersection of Strategy, Product, GTM and AI, turning complex business challenges into practical systems, frameworks and tools.
 
-After spending ten years helping **scale Akeneo from around €1M to more than €70M ARR**, I'm now exploring how AI can accelerate Product Marketing, competitive intelligence and strategic decision-making.
+After a decade at Akeneo, where I **built the Product Marketing function from scratch and drove €25M+ in ARR impact across GTM programs**, I'm now exploring how AI can accelerate Product Marketing, Competitive Intelligence and strategic decision-making.
 
 🔭 Building AI-powered tools for Product Marketing, GTM and Strategic Operations.
 
 🌍 Portfolio → [https://laurebrosseau.com](https://laurebrosseau.com)
 
 💼 Open to Senior Product Marketing, Strategic Programs and Chief of Staff opportunities.
-
 
 ## About this GitHub
 
@@ -50,6 +49,6 @@ I'm currently working on projects around:
 
 🚀 Open to Senior Product Marketing, Strategic Programs and Chief of Staff opportunities
 
-📍 Based in Anglet, France • Remote • Regular travel across Europe
+📍 Based in Bayonne, France • Remote • Regular travel across Europe
 
 Interested in my work? Let's connect on [LinkedIn.](https://www.linkedin.com/in/laurebrosseau/)
