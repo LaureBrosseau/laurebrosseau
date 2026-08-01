@@ -22,13 +22,29 @@ This repository collection will grow over time as I publish new projects and exp
 
 ## Featured Projects
 
+### Battle card generator
+
+A framework and AI prompts to turn raw competitive data into a sales-ready battle card in a few minutes.
+
+I built this to solve a problem I lived first-hand running Akeneo's win-loss and competitive intelligence program: battle cards take too long to produce and go stale fast. This tool gives sales and PMM teams a structure to follow, so the output is consistent and reusable, not a one-off deck.
+
+🔗 Repo: https://github.com/LaureBrosseau/battlecard-generator
+
+### Buyer Persona Builder
+
+An AI skill that creates one or more buyer persona profiles without running interviews.
+
+The skill synthesizes job postings, analyst reports, product documentation, forums and reviews into a clear, one-page buyer persona. It is meant for teams who need a solid first draft fast, before validating it with real customer interviews.
+
+🔗 Repo: https://github.com/LaureBrosseau/buyer-persona-builder
+
 ### React UI Components Comparison
 
-An interactive comparison of the most popular React UI component libraries.
+A Product Marketing-driven analysis of the enterprise React UI components market: comparing MUI X, AG Grid and Bryntum on positioning, trade-offs and build vs buy decisions.
 
-I built this tool while evaluating UI frameworks for AI applications. It compares the strengths, limitations and ecosystem of the most popular React component libraries in one place.
+I built this as a technical exercise, to show both my technical skills and my PMM skills on a single project. I also wanted to understand how an AI model actually chooses one tool over another when asked to compare options: what it weighs, what it prioritizes, and where its recommendation can be biased or incomplete.
 
-The goal is simple: help developers, designers and product teams quickly evaluate the strengths, weaknesses and ecosystem of each library before making a technology choice.
+The output is a tool any PMM, product manager or engineering lead can reuse to structure their own build vs buy decision, not just for UI libraries.
 
 🌐 Live demo: [https://laurebrosseau.github.io/react-ui-components-comparison/](https://laurebrosseau.github.io/react-ui-components-comparison/)
 
