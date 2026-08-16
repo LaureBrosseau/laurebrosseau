@@ -65,6 +65,6 @@ I'm currently working on projects around:
 
 🚀 Open to Senior Product Marketing, Strategic Programs and Chief of Staff opportunities
 
-📍 Based in Bayonne, France • Remote • Regular travel across Europe
+📍 Based in Anglet, France • Remote • Regular travel across Europe
 
 Interested in my work? Let's connect on [LinkedIn.](https://www.linkedin.com/in/laurebrosseau/)
