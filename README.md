@@ -38,9 +38,11 @@ The skill synthesizes job postings, analyst reports, product documentation, foru
 
 🔗 Repo: https://github.com/LaureBrosseau/buyer-persona-builder
 
-### Win-Loss Intelligence Analyzer (Private project)
+### Win-Loss Intelligence Analyzer
 
 An AI skill that turns raw, fragmented CRM and deal data into structured Win-Loss analysis, competitive insights, and interview priorities, with data quality checks, AI-assisted enrichment, and human validation built into the workflow.
+
+🔗 Private repo
 
 ### React UI Components Comparison
 
