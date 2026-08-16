@@ -38,6 +38,10 @@ The skill synthesizes job postings, analyst reports, product documentation, foru
 
 🔗 Repo: https://github.com/LaureBrosseau/buyer-persona-builder
 
+### Win-Loss Intelligence Analyzer (Private project)
+
+An AI skill that turns raw, fragmented CRM and deal data into structured Win-Loss analysis, competitive insights, and interview priorities, with data quality checks, AI-assisted enrichment, and human validation built into the workflow.
+
 ### React UI Components Comparison
 
 A Product Marketing-driven analysis of the enterprise React UI components market: comparing MUI X, AG Grid and Bryntum on positioning, trade-offs and build vs buy decisions.
