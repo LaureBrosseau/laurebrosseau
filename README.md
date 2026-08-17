@@ -8,7 +8,7 @@ After a decade at Akeneo, where I **built the Product Marketing function from sc
 
 🔭 Building AI-powered tools for Product Marketing, GTM and Strategic Operations.
 
-🌍 Portfolio → [https://laurebrosseau.com](https://laurebrosseau.com)
+🌍 Portfolio → [https://laurebrosseau.com](https://www.laurebrosseau.com/?utm_source=github&utm_medium=profile)
 
 💼 Open to Senior Product Marketing, Strategic Programs and Chief of Staff opportunities.
 
